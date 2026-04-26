@@ -2,7 +2,9 @@
 
 ## Overview
 This project analyzes the 2022 NBA season, focusing on how Stephen Curry led the
+
 Golden State Warriors to a championship with significantly fewer minutes played
+
 compared to other league superstars.
 
 ## The Goal
