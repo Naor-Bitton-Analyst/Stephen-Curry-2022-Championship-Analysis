@@ -6,7 +6,7 @@ Golden State Warriors to a championship with significantly fewer minutes played
 compared to other league superstars.
 
 ## The Goal
-To prove through data (Python & Pandas) that Curry's impact per minute was
+To prove through data (Python & Pandas) that Curry's impact per minute was  
 higher than his peers during this specific championship run.
 
 ## Tech Stack
